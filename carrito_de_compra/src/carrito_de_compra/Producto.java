@@ -35,27 +35,6 @@ import java.util.ArrayList;
 		}
 	}
 	
-/*	public int getitem() {
-		return item;
-	}
-	public void setitem(int item) {
-		this.item = item;
-		
-	}
-	public String getNombre() {
-		return nombre;
-	}
-	public void setNombre(String nombre) {
-		this.nombre = nombre;
-	}
-	public double getpreciounit() {
-		return Preciounitario;
-	}
-	public void setpreciounit(double Preciounitario) {
-		this.preciounit = Preciounitario;
-		
-	}	
-	*/
 	
 	
 	
